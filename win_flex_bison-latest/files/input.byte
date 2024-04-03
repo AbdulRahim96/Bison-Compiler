@@ -1,0 +1,31 @@
+#_HR     
+
+(
+)
+Num square()
+
+
+
+Num main()
+Then
+
+    Num_main = 5:
+    Num _y = 3:
+    _y = _xvalue :
+	
+    If ( _xvalue = = _y )
+      Then
+        Write("sam"):
+        Num _x = 10:
+      End
+	
+    for ( Num i=0: i<10: i=i+1 )
+      Then
+	If ( _xvalue >= 3 )
+	Then
+	  Write( "greater than 3" ):
+	End
+      End 
+
+End
+
